@@ -1,22 +1,22 @@
 {
-  "name": "odin-recursion",
+  "name": "odin-testing-basics",
   "version": "1.0.0",
-  "description": "Recursion",
+  "description": "Testing Basics",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jormaedes/odin-recursion.git"
+    "url": "git+https://github.com/jormaedes/odin-testing-basics.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jormaedes/odin-recursion/issues"
+    "url": "https://github.com/jormaedes/odin-testing-basics/issues"
   },
-  "homepage": "https://github.com/jormaedes/odin-recursion#readme",
+  "homepage": "https://github.com/jormaedes/odin-testing-basics#readme",
   "devDependencies": {
     "@babel/preset-env": "^7.29.0",
     "jest": "^30.2.0"
