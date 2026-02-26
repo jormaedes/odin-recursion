@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jormaedes/odin-testing-basics.git"
+    "url": "git+https://github.com/jormaedes/odin-recursion.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jormaedes/odin-testing-basics/issues"
+    "url": "https://github.com/jormaedes/odin-recursion/issues"
   },
-  "homepage": "https://github.com/jormaedes/odin-testing-basics#readme",
+  "homepage": "https://github.com/jormaedes/odin-recursion.git#readme",
   "devDependencies": {
     "@babel/preset-env": "^7.29.0",
     "jest": "^30.2.0"
